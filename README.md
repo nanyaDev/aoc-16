@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2016 🎄
 
-My solutions to [Advent of Code](https://adventofcode.com/) 2016 in Ruby. 
+My solutions to [Advent of Code](https://adventofcode.com/) 2016 in Python. 
 
 | #    | title                                          | notes   |
 | ---- | ---------------------------------------------- | ------- |
@@ -31,28 +31,28 @@ My solutions to [Advent of Code](https://adventofcode.com/) 2016 in Ruby.
 | 25   | [Clock Signal][25py]                           |         |
 
 
-[01py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day01.py
-[02py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day02.py
-[03py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day03.py
-[04py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day04.py
-[05py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day05.py
-[06py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day06.py
-[07py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day07.py
-[08py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day08.py
-[09py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day09.py
-[10py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day10.py
-[11py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day11.py
-[12py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day12.py
-[13py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day13.py
-[14py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day14.py
-[15py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day15.py
-[16py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day16.py
-[17py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day17.py
-[18py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day18.py
-[19py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day19.py
-[20py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day20.py
-[21py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day21.py
-[22py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day22.py
-[23py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day23.py
-[24py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day24.py
-[25py]:https://github.com/nanyaDev/advent-of-code-2020/blob/main/day25.py
+[01py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day01.py
+[02py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day02.py
+[03py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day03.py
+[04py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day04.py
+[05py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day05.py
+[06py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day06.py
+[07py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day07.py
+[08py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day08.py
+[09py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day09.py
+[10py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day10.py
+[11py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day11.py
+[12py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day12.py
+[13py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day13.py
+[14py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day14.py
+[15py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day15.py
+[16py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day16.py
+[17py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day17.py
+[18py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day18.py
+[19py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day19.py
+[20py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day20.py
+[21py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day21.py
+[22py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day22.py
+[23py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day23.py
+[24py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day24.py
+[25py]:https://github.com/nanyaDev/advent-of-code-2016/blob/main/day25.py
